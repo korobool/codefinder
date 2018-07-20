@@ -1,6 +1,13 @@
 # codefinder
 An ML (NN) based example of JavaScript code detector in a raw input.
 
+## Repository content
+1. *train.py* is a script for model training.
+2. *model.py* is a library that describes the network architecture.
+3. *helpers.py* is a library that performs padding with zeros and converts data to numpy arrays.
+4. *code_detector.py* is a library containing the code-detector class, works on the pre-trained model.
+5. *Code_Detector.ipynb* is a notebook demonstrating the *code_detector.py* example.
+
 ```Python
 from code_detector import Detector
 detector = Detector()
