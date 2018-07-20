@@ -14,7 +14,8 @@ text_with_marks = detector.detect(text)
 text_with_marks = detector.detect(text)
 ```
 
-```Bash
+
+```
 <-start_text->
        But it wasn't until that night that he could return to the
 intricacies of the problem. Friend or foe? Christ, what had they been
@@ -25,12 +26,13 @@ Ohhh, he groaned at the memory of such an admission reaching Hrruban ears;
 ears unfamiliar with the Terran language. What on earth had possessed him
 to talk about that phase of Terran history in the first place? What an
 impression
+ 
+ * 
+ *   <img src="normal_image.png" data-ro
 <-end_text->
 
 <-start_code->
- 
- * 
- *   <img src="normal_image.png" data-rollover="rollover_image.png">
+llover="rollover_image.png">
  * 
  * Note that this module requires onLoad.js
  */
@@ -39,9 +41,16 @@ onLoad(function() { // Everything in one anonymous function: no symbols defined
     for(var i = 0; i < document.images.length; i++) {
         var img = document.images[i]; 
         var rollover = img.getAttribute("data-rollover"); 
-<-end_code->
-```
 
-```Python
-detector.close_sess()
+le
+<-end_code->
+
+<-start_text->
+ngth about the long history of the Terranic aggression and genocide.
+Ohhh, he groaned at the memory of such an admission reaching Hrruban ears;
+ears unfamiliar with the Terran language. What on earth had possessed him
+to talk about that phase of Terran history in the first place? What an
+impression
+
+<-end_text->
 ```
