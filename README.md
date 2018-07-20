@@ -42,11 +42,11 @@ onLoad(function() { // Everything in one anonymous function: no symbols defined
         var img = document.images[i]; 
         var rollover = img.getAttribute("data-rollover"); 
 
-le
+
 <-end_code->
 
 <-start_text->
-ngth about the long history of the Terranic aggression and genocide.
+length about the long history of the Terranic aggression and genocide.
 Ohhh, he groaned at the memory of such an admission reaching Hrruban ears;
 ears unfamiliar with the Terran language. What on earth had possessed him
 to talk about that phase of Terran history in the first place? What an
