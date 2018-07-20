@@ -55,4 +55,4 @@ impression
 <-end_text->
 ```
 
-Some implementation made in manier taken from [here](https://github.com/ematvey/tensorflow-seq2seq-tutorials/blob/master/2-seq2seq-advanced.ipynb)
+Implementation ihetits sequense to sequense implementation found [here](https://github.com/ematvey/tensorflow-seq2seq-tutorials/blob/master/2-seq2seq-advanced.ipynb)
