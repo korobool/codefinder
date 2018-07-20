@@ -8,6 +8,7 @@ An ML (NN) based example of JavaScript code detector in a raw input.
 4. *code_detector.py* is a library containing the code-detector class, works on the pre-trained model.
 5. *Code_Detector.ipynb* is a notebook demonstrating the *code_detector.py* example.
 
+## How to use
 ```Python
 from code_detector import Detector
 detector = Detector()
